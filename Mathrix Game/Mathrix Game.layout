@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="funciones.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5116" topLine="20" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="20" />
+			<Collapse line="49" />
+			<Collapse line="107" />
+			<Collapse line="114" />
+			<Collapse line="119" />
+			<Collapse line="130" />
+			<Collapse line="139" />
+			<Collapse line="154" />
+			<Collapse line="164" />
+			<Collapse line="176" />
+			<Collapse line="197" />
+			<Collapse line="216" />
+			<Collapse line="219" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="622" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="110" />
+			<Collapse line="299" />
+			<Collapse line="330" />
+			<Collapse line="365" />
+		</Folding>
+	</File>
+	<File name="funciones.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="630" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
