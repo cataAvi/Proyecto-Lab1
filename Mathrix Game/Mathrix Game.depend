@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1624834112 source:c:\users\catal\onedrive - frgp.utn.edu.ar\utn 2021\laboratorio de computacion 1\segundo parcial grupal\mathrix game\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624833902 source:c:\users\catal\onedrive - frgp.utn.edu.ar\utn 2021\laboratorio de computacion 1\segundo parcial grupal\mathrix game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624557124 c:\users\catal\onedrive - frgp.utn.edu.ar\utn 2021\laboratorio de computacion 1\segundo parcial grupal\mathrix game\funciones.h
+
+1571584339 c:\users\catal\onedrive - frgp.utn.edu.ar\utn 2021\laboratorio de computacion 1\segundo parcial grupal\mathrix game\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
